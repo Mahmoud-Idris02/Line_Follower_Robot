@@ -8,10 +8,12 @@
 #define ir5 8
 #define ir6 9
 #define ir7 10
-#define ir8 11
+#define ir8 12
 
 
 
 unsigned int getAngel(void);
+bool is90(void);
+int getState(void);
 
 #endif
