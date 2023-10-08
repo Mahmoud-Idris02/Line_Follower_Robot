@@ -25,19 +25,19 @@
 */
 
 
-#define leftSpeed   60  
-#define RightSpeed  95
+#define leftSpeed 65
+#define RightSpeed 100
 
 
 void setServo();
 void moveForward(void);
 void movebackward(void);
-void move( unsigned int angle,  bool _90d , int state) ;
+void move(unsigned int angle, bool _90d, int state);
 void moveRight(unsigned int angle);
 void moveLeft(unsigned int angle);
 void spinLeft(unsigned int angle);
 void spinWrite(unsigned int angle);
-void bridge(void );
+void bridge(void);
 void moveServo(unsigned int angle);
 
 #endif
