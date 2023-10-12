@@ -57,6 +57,12 @@ Version 2:
 	In version 2 we simply had to remove the servo motor for accidental issue. We had to replace it with a fixed connection for the two front wheels.to be honest this version was much easer it just needs a different structure and design for the body. We actually did it for accidental reasons after we didn’t find an appropriate servo motor that can fit to our idea “for the sake of competing instead of nothing”.
 In my opinion, if we can find an appropriate servo motor for this mission it might be the most stable and faster vehicle in the competition.
 
+## Electric design
+	Electric design for version 2:
+We faced a pretty challenging issue that the Arduino regulator chip cannot handle 12v for along time it’s a bit losing method. We can avoid this by connecting the 12v current to the H-bridge but at the other side you would face a current intensity issue as the H-bridge regulator generates a 0.5 A   
+
+<img src ="[https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/Application%20Layer%20(2).png](https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/Electric%20Design.jpg)">
+
 
 ## Software design
 	We used “layer design approach” for our software design that we will be illustrated in the following diagram.
