@@ -61,7 +61,7 @@ In my opinion, if we can find an appropriate servo motor for this mission it mig
 	Electric design for version 2:
 We faced a pretty challenging issue that the Arduino regulator chip cannot handle 12v for along time it’s a bit losing method. We can avoid this by connecting the 12v current to the H-bridge but at the other side you would face a current intensity issue as the H-bridge regulator generates a 0.5 A   
 
-<img src ="[https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/Electric%20Design.jpg?raw=true](https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/IMGs/Electric%20Design.jpg?raw=true)">
+<img src ="IMGs/Electric Design.jpg">
 
 
 ## Software design
