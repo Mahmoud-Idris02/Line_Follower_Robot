@@ -66,4 +66,4 @@ We faced a pretty challenging issue that the Arduino regulator chip cannot handl
 
 ## Software design
 	We used “layer design approach” for our software design that we will be illustrated in the following diagram.
-<img src ="[https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/Application%20Layer%20(2).png](https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/IMGs/Application%20Layer%20(2).png?raw=true)https://github.com/Mahmoud-Idris02/Line_Follower_Robot/blob/master/IMGs/Application%20Layer%20(2).png?raw=true">
+<img src ="IMGs/Application Layer (2).png">
